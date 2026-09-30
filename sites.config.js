@@ -13,18 +13,6 @@ export const SITES = [
     id: 'site-one',
     name: 'Site One',
     color: '#2F43C9',
-    origins: ['https://site-one.com', 'https://www.site-one.com'],
+    origins: ['https://tickets-zeta-umber.vercel.app'],
   },
-  {
-    id: 'site-two',
-    name: 'Site Two',
-    color: '#0E8A6A',
-    origins: ['https://site-two.com'],
-  },
-  {
-    id: 'site-three',
-    name: 'Site Three',
-    color: '#B4309B',
-    origins: ['https://site-three.com'],
-  },
-];
+]
